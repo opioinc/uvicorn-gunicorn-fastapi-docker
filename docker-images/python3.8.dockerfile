@@ -1,4 +1,4 @@
-FROM tiangolo/uvicorn-gunicorn:python3.8
+FROM opioinc/uvicorn-gunicorn:latest
 
 LABEL maintainer="Sebastian Ramirez <tiangolo@gmail.com>"
 
